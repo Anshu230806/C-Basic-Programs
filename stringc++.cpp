@@ -3,6 +3,7 @@ using namespace std;
 
 // these changes  are made by master branch
 
+// changes made by merge branch
 int main()
 {
     string s2;
@@ -26,6 +27,7 @@ int main()
     char arr2[] = {"hello"};
     cout << arr2;
     cout << arr2[0];
+
     //  cout << arr.size(); incorrect
     //  cout << arr2.size(); incorrect
     cout << sizeof(arr) << endl;
