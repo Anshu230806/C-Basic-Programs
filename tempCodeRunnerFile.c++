@@ -1,0 +1,4 @@
+
+        st.pop();
+    }
+    return postfix;
